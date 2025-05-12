@@ -16,6 +16,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <h1>Chao be Bang mup</h1>
   <h2>Bang rat la Gay</h2>
   <h3>Bao gay vl</h3>
+  <h3>con cac</h3>
 </template>
 
 <style scoped>

@@ -14,6 +14,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <HelloWorld msg="Vite + Vue" />
 
   <h1>Chao be Bang mup</h1>
+  <h2>Bang rat la Gay</h2>
 </template>
 
 <style scoped>

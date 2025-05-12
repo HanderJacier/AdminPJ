@@ -11,7 +11,7 @@ const count = ref(0)
 <template>
   
     <h1>An Mập</h1>
-AKIRA MẬP
+AKIRA SIÊU SIÊU MẬP
   <p class="read-the-docs">Bảo rất là mập</p>
 
   AKIRA WIBU TOP 1 ARISEARISE

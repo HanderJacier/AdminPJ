@@ -5,18 +5,13 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   <div>
     <a href="https://vite.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
+      <img src="./assets/440144479_2178280532517235_2890867806589985999_n.jpg" class="logo" alt="Vite logo" />
     </a>
     <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
+      <img src="./assets/99-anh-meme-meo-anh-che-meo-hai-de-thuong-cho-dien-thoai-may-tinh-1658116837-10.jpeg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <HelloWorld msg="Vite + Vue" />
-
-  <h1>Chao be Bang mup</h1>
-  <h2>Bang rat la Gay</h2>
-  <h3>Bao gay vl</h3>
-  <h3>con cac</h3>
+  <HelloWorld msg="Hoa Xuân APP" />
 </template>
 
 <style scoped>

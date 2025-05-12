@@ -13,6 +13,8 @@ const count = ref(0)
     <h1>An Mập</h1>
 
   <p class="read-the-docs">Bảo rất là mập</p>
+
+  AKIRA WIBU TOP 1 ARISEARISE
 </template>
 
 <style scoped>

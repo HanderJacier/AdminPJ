@@ -10,7 +10,7 @@ const count = ref(0)
 
 <template>
   
-    An Mập
+    <h1>An Mập</h1>
 
   <p class="read-the-docs">Bảo rất là mập</p>
 </template>
